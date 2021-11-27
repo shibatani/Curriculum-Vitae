@@ -4,16 +4,16 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
+|Name|柴谷遼太朗|
 |Blog|[ふーばーブログ](http://foobar.blog.com)|
 |Twitter|[@foobar](https://twitter.com/foobar)|
 
 ## スキル
 ### 言語
 - Ruby
-- PHP
-- Java
-- などなど
+- Python
+- JavaScript
+- 
 
 ### フレームワーク
 
