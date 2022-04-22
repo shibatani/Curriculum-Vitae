@@ -59,7 +59,7 @@
 
 - チーム規模: 7人 (フロントエンドエンジニア 3名, デザイナー 2名, PM 2名)
 - 役割: フロントエンドエンジニア
-- 使用技術: HTML, CSS, SCSS, JavaScript
+- 使用技術: JavaScript, Node.js/Express, HTML, CSS, SCSS
 
 #### 業務内容
 - フロント側のメインエンジニアとして参画。
