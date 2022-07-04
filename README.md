@@ -6,7 +6,6 @@
 |GitHub|[@shibatani](https://github.com/shibatani/)|
 |Zenn|https://zenn.dev/shibari_yo|
 |Wantedly|https://www.wantedly.com/id/ryotaro_shibatani|
-|Zenn|https://zenn.dev/shibari_yo|
 
 
 ## スキル
